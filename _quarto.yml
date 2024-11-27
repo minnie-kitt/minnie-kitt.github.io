@@ -20,6 +20,9 @@ website:
           menu: 
             - href: vet_mh.qmd
               text: Veterinarian Mental Health
+      right: 
+        - icon: envelope
+          href: mailto:tkittisi@uoguelph.ca
 
 format:
   html:
