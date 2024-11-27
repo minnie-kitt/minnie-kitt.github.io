@@ -23,6 +23,8 @@ website:
       right: 
         - icon: linkedin
           href: https://www.linkedin.com/in/tipsarpk/
+        - icon: github
+          href: https://github.com/minnie-kitt
         - icon: envelope
           href: mailto:tkittisi@uoguelph.ca
 
