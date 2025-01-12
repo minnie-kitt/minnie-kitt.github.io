@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 toc: true
 ---
 
-[Click here to download the PDF Version.](/files/tkittisiam-cv-nov-2024.pdf)
+Click here to download the PDF Version: [CV](/files/tkittisiam-cv-dec-2024-web.pdf) \| [General Resume](/files/Kittisiam_Tipsarp_resume-dec-2024-web.pdf)
 
 ------------------------------------------------------------------------
 
@@ -11,37 +11,41 @@ toc: true
 
 Passionate and knowledgeable Ph.D. Candidate in Epidemiology with international experience, teaching expertise, and a proven ability to work in multicultural settings. Skilled in conducting epidemiological research using a mix of quantitative and qualitative skills. Seeking to leverage my skills to advance research in human and animal health.
 
-## Experience
+## Professional Experience
 
 **Doctoral Researcher**
 
-*2021 – Present*
+*2021 - Present*
 
-PI: Dr. Caroline Ritter, University of Prince Edward Island, PE, Canada
+Ontario Veterinary College, University of Guelph, ON, Canada
 
-**Graduate Teaching Assistant, “Art of Veterinary Medicine I”**
-
-*Sep - Dec 2024*
-
-Supervisor: Dr. Basem Gohar, University of Guelph, ON, Canada
-
-**Graduate Teaching Assistant, “Epidemiology I”**
-
-*Sep - Dec 2024*
-
-Supervisor: Dr. Kelsey Spence, University of Guelph, ON, Canada
-
-**Graduate Teaching Assistant, “Applied Clinical Research”**
-
-*Jan - Apr 2024*
-
-Supervisor: Keana Shahin, University of Guelph, ON, Canada
-
-**Research Assistant, “Rabies-Free Animal Project”**
+**Research Assistant**
 
 *2019 - 2020*
 
-PI: Dr. Waraphon Phimpraphai, Kasetsart University, Thailand
+Rabies-Free Animal Project, Kasetsart University, Thailand
+
+## Teaching Experience
+
+**Graduate Teaching Assistant**
+
+*Jan 2024 - Present*
+
+Ontario Veterinary College, University of Guelph, ON, Canada
+
+Courses:
+
+-   Applied Clinical Research (Delivered lectures titled Descriptive Statistics and Starting R)
+
+-   Epidemiology I (Held office hours and delivered a lecture titled Introduction to Study Design)
+
+-   Art of Veterinary Medicine I
+
+**Graduate Teaching Assistant**
+
+*2019 - 2020*
+
+Course: Introduction to Biostatistics
 
 ## Peer-Reviewed Publications
 
@@ -121,11 +125,23 @@ University of Washington, Seattle, WA, USA
 
 ## Awards and scholarships
 
+**Braithwaite Conference Travel Grant**
+
+*Nov 2024*
+
+University of Guelph, Canada
+
 **17th International Symposium on Veterinary Epidemiology and Economics (ISVEE) Bursary**
 
 *2024*
 
-17th International Symposium on Veterinary Epidemiology and Economics (ISVEE), Sydney, NSW, Australia
+17th International Symposium on Veterinary Epidemiology and Economics (ISVEE) organizing committee, Sydney, NSW, Australia
+
+**International Doctoral Tuition Scholarship**
+
+*2021 - 2025*
+
+University of Guelph, Canada
 
 **Canada-ASEAN Scholarships and Educational Exchanges for Development (SEED)**
 
