@@ -2,7 +2,9 @@
 title: "Doctoral Thesis Defence Presentation"
 ---
 
-## Link
+## Links
+
+-   [Sign up to receive updates on my thesis and future publications via email](https://uoguelph.eu.qualtrics.com/jfe/form/SV_3mVfAoKFugHJRXw)
 
 -   [WSAVA professional wellness guidelines](https://onlinelibrary.wiley.com/doi/10.1111/jsap.13689)
 
@@ -47,6 +49,8 @@ Plano Clark, V. L., & Ivankova, N. V. (2016). How to use mixed methods research?
 Platt, B., Hawton, K., Simkin, S., & Mellanby, R. J. (2010). Systematic review of the prevalence of suicide in veterinary surgeons. *Occup Med (Lond)*, *60*(6), 436-446. <https://doi.org/10.1093/occmed/kqq044>
 
 Platt, B., Hawton, K., Simkin, S., & Mellanby, R. J. (2012). Suicidal behaviour and psychosocial problems in veterinary surgeons: a systematic review. *Soc Psychiatry Psychiatr Epidemiol*, *47*(2), 223-240. <https://doi.org/10.1007/s00127-010-0328-6>
+
+Ritter, C., Koralesky, K. E., Saraceni, J., Roche, S., Vaarst, M., & Kelton, D. (2023). Invited review: Qualitative research in dairy science—A narrative review. *Journal of Dairy Science*, *106*(9), 5880-5895. [https://doi.org/https://doi.org/10.3168/jds.2022-23125](https://doi.org/https:/doi.org/10.3168/jds.2022-23125)
 
 Ryff, C. D., & Singer, B. H. (2006). Know thyself and become what you are: a eudaimonic approach to psychological well-being. *Journal of Happiness Studies*, *9*(1), 13-39. <https://doi.org/10.1007/s10902-006-9019-0>
 
