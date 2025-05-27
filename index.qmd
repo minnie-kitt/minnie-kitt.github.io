@@ -13,7 +13,7 @@ about:
       url: "https://github.com/minnie-kitt"
     - icon: envelope
       text: Email
-      url: "mailto:tkittisi@uoguelph.ca"
+      url: "mailto:tipsarp.k@gmail.com?cc=tkittisi@uoguelph.ca"
     - icon: globe
       text: AJ Research Lab
       url: "https://ajresearch.ca"

@@ -2,8 +2,18 @@
 title: "Veterinarian Mental Health"
 ---
 
--   [“A Multitude of Emotions” in Veterinary Work: A Mixed-Methods Analysis of Emotional Intelligence and Experiences in Early-Career Veterinarians Presentation at ISVEE17](2024nov-isvee.qmd)
+#### June 2025
+
+-   [*How Can Emotional Intelligence Benefit Veterinarians?* at CAVEPM 2025](2025jun-cavepm.qmd)
+
+#### May 2025
 
 -   [Doctoral Thesis Defence](2025may-defence.qmd)
+
+#### November 2024
+
+-   [*“A Multitude of Emotions” in Veterinary Work* at ISVEE17](2024nov-isvee.qmd)
+
+------------------------------------------------------------------------
 
 See [list of previous presentations here.](cv.html#conference-presentations-proceedings-and-posters)
