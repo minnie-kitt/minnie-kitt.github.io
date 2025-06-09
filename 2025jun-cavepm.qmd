@@ -9,6 +9,10 @@ format: html
 ^2^ Atlantic Veterinary College, University of Prince Edward Island\
 ^3^ University of Saskatchewan
 
+## Note
+
+This poster presents the combined results from chapters 3 & 4 of my doctoral thesis, [Explorations of Emotional Intelligence and Thriving Well-being in Early-career Veterinarians](https://hdl.handle.net/10214/29012).
+
 ## Abstract
 
          The veterinary profession can be highly rewarding, but the emotional nature of clinical work can also contribute to mental distress and poor job satisfaction. Emotional intelligence (EI) is the ability to recognize, understand, and manage one's own emotions and the emotions of others. In veterinarians, EI is increasingly recognized as a critical skill that can enhance client communication, teamwork, stress-coping, and mental well-being. The potential to enhance the retention of veterinarians in the profession is particularly important when considering the national shortage. The objectives of this study were to investigate factors that influence EI throughout the first year of Canadian veterinarians’ careers and to understand early-career veterinarians’ experiences with managing intense emotions in veterinary work.
@@ -52,3 +56,4 @@ VanderWeele, T. J., Chen, Y., Long, K., Kim, E. S., Trudel-Fitzgerald, C., & Kub
 ## Supplementary
 
 -   [Figures and Tables](/files/ch4-tables.pdf)
+-   [Interaction Plots](/files/appendix-h.pdf)
