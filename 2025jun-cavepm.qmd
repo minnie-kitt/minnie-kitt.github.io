@@ -9,7 +9,7 @@ format: html
 ^2^ Atlantic Veterinary College, University of Prince Edward Island\
 ^3^ University of Saskatchewan
 
-# Poster
+## Poster
 
 [![](/files/poster-cavepm-2025.png){fig-align="center"}](/files/poster-cavepm-2025.pdf)
 
@@ -19,7 +19,7 @@ This poster presents the combined results from chapters 3 & 4 of my doctoral the
 
 Chapter 3 of my thesis has also been published as the article ["**A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"**](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5599)
 
-# Abstract
+## Abstract
 
          The veterinary profession can be highly rewarding, but the emotional nature of clinical work can also contribute to mental distress and poor job satisfaction. Emotional intelligence (EI) is the ability to recognize, understand, and manage one's own emotions and the emotions of others. In veterinarians, EI is increasingly recognized as a critical skill that can enhance client communication, teamwork, stress-coping, and mental well-being. The potential to enhance the retention of veterinarians in the profession is particularly important when considering the national shortage. The objectives of this study were to investigate factors that influence EI throughout the first year of Canadian veterinarians’ careers and to understand early-career veterinarians’ experiences with managing intense emotions in veterinary work.
 
@@ -29,7 +29,7 @@ Chapter 3 of my thesis has also been published as the article ["**A qualitative 
 
          These findings support investment in EI training programs, as well as initiatives to develop meaningful social connections, which may also help improve EI in veterinarians. Strengthening EI in the veterinary profession could offer numerous benefits, including: strengthened interpersonal relationships, enhanced client communication skills, improved ability to manage external pressures, and improved overall mental well-being.
 
-# References
+## References
 
 Bartram, D. J., Yadegarfar, G., & Baldwin, D. S. (2009). Psychosocial working conditions and work-related stressors among UK veterinary surgeons. *Occup Med (Lond)*, *59*(5), 334-341. <https://doi.org/10.1093/occmed/kqp072>
 
@@ -59,7 +59,7 @@ Timmins, R. P. (2006). How does emotional intelligence fit into the paradigm of 
 
 VanderWeele, T. J., Chen, Y., Long, K., Kim, E. S., Trudel-Fitzgerald, C., & Kubzansky, L. D. (2020). Positive Epidemiology? *Epidemiology*, *31*(2), 189-193. <https://doi.org/10.1097/EDE.0000000000001147>
 
-# Supplementary
+## Supplementary
 
 -   [Figures and Tables](/files/ch4-tables.pdf)
 -   [Interaction Plots](/files/appendix-h.pdf)
