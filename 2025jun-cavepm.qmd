@@ -3,12 +3,6 @@ title: "How can Emotional Intelligence benefit veterinarians? A Mixed-Methods An
 format: html
 ---
 
-### Tipsarp Kittisiam^1^, Emily Morabito^2^, Caroline Ritter^2^, Adam Stacey^3^, Deep Khosa^1^ and Andria Jones^1^
-
-^1^ Ontario Veterinary College, University of Guelph.\
-^2^ Atlantic Veterinary College, University of Prince Edward Island\
-^3^ University of Saskatchewan
-
 ## Poster
 
 [![](/files/poster-cavepm-2025.png){fig-align="center"}](/files/poster-cavepm-2025.pdf)
