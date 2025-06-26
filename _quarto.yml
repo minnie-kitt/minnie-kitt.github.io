@@ -13,13 +13,15 @@ website:
   navbar:
       left:
         - href: index.qmd
-          text: About
+          text: About me
         - href: cv.qmd
-          text: CV
-        - text: "Research"
+          text: Curriculum Vitae
+        - text: "Veterinarian Mental Health"
           menu: 
             - href: vet_mh.qmd
-              text: Veterinarian Mental Health
+              text: Publications and Presentations
+            - href: https://minnie-kitt.github.io/vmh-blog/
+              text: A Blog About Veterinarian Well-being
       right: 
         - icon: linkedin
           href: https://www.linkedin.com/in/tipsarpk/
