@@ -52,8 +52,3 @@ Petrides, K. V. (2009b). Technical manual for the Trait Emotional Intelligence Q
 Timmins, R. P. (2006). How does emotional intelligence fit into the paradigm of veterinary medical education? *J Vet Med Educ*, *33*(1), 71-75. <https://doi.org/10.3138/jvme.33.1.71>
 
 VanderWeele, T. J., Chen, Y., Long, K., Kim, E. S., Trudel-Fitzgerald, C., & Kubzansky, L. D. (2020). Positive Epidemiology? *Epidemiology*, *31*(2), 189-193. <https://doi.org/10.1097/EDE.0000000000001147>
-
-## Supplementary
-
--   [Figures and Tables](/files/ch4-tables.pdf)
--   [Interaction Plots](/files/appendix-h.pdf)
