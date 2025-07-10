@@ -4,7 +4,7 @@ project:
 
 website:
   page-footer: 
-    center: "Copyright 2024, Tipsarp Kittisiam" 
+    center: "Copyright 2025, Tipsarp Kittisiam" 
     right: 
       - icon: github
         href: https://github.com/
@@ -13,22 +13,18 @@ website:
   navbar:
       left:
         - href: index.qmd
-          text: About me
+          text: About Me
         - href: cv.qmd
           text: Curriculum Vitae
-        - text: "Veterinarian Mental Health"
+        - text: "My Research"
           menu: 
             - href: vet_mh.qmd
-              text: Publications and Presentations
-            - href: https://minnie-kitt.github.io/vmh-blog/
-              text: A Blog About Veterinarian Well-being
+              text: Veterinarian Well-being
+
       right: 
-        - icon: linkedin
-          href: https://www.linkedin.com/in/tipsarpk/
-        - icon: github
-          href: https://github.com/minnie-kitt
-        - icon: envelope
-          href: mailto:tipsarp.k@gmail.com?cc=tkittisi@uoguelph.ca
+            - href: https://minnie-kitt.github.io/vmh-blog/
+              text: Read My Blog About Veterinarian Well-being
+              icon: bookmark-heart-fill
 
 format:
   html:

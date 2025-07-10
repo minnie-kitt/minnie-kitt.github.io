@@ -2,7 +2,7 @@
 title: "Tipsarp `Minnie` Kittisiam"
 about:
   template: trestles
-  image: "images/about-minnie.png"
+  image: "images/IMG_6379.jpeg"
   image-shape: round
   links:
     - icon: linkedin
