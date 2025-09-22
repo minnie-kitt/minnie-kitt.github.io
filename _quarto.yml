@@ -5,26 +5,10 @@ project:
 website:
   page-footer: 
     center: "Copyright 2025, Tipsarp Kittisiam" 
-    right: 
-      - icon: github
-        href: https://github.com/
+
   search: false
   back-to-top-navigation: true
-  navbar:
-      left:
-        - href: index.qmd
-          text: About Me
-        - href: cv.qmd
-          text: Curriculum Vitae
-        - text: "My Research"
-          menu: 
-            - href: vet_mh.qmd
-              text: Veterinarian Well-being
 
-      right: 
-            - href: https://minnie-kitt.github.io/vmh-blog/
-              text: Read My Blog About Veterinarian Well-being
-              icon: bookmark-heart-fill
 
 format:
   html:
