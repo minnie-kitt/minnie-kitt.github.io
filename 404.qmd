@@ -1,0 +1,7 @@
+---
+title: Page Not Found
+---
+
+The page you requested cannot be found.
+
+Please note that [https://minnie-kitt.github.io/](https://minnie-kitt.github.io/) is no longer updated, instead please visit [https://tipsarp.github.io/](https://tipsarp.github.io/).
